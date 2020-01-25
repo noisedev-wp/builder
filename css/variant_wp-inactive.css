@@ -1,7 +1,0 @@
-#wpadminbar #wp-admin-bar-edit-with-variant > .ab-item:before {
-    content: url('../img/vlogo-small.png');
-    width: 20px;
-    height: 20px;
-    top: 2px;
-    margin-right: 10px;
-}
